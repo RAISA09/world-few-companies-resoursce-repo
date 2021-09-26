@@ -1,0 +1,23 @@
+.company-style{
+    background-color: rgb(149, 211, 211);
+    margin-top: 30px;
+    margin-left: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.image-style{
+    width: 200px;
+    height: 150px;
+    background-color:white;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.btn-style{
+    background-color: goldenrod;
+    padding: 5px;
+    border: 1px solid rgb(165, 156, 156);
+    border-radius: 5px;
+    font-weight: 400px;
+    font-size: 15px;
+    cursor: pointer;
+}

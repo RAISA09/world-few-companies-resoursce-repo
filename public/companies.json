@@ -1,0 +1,130 @@
+[{  
+    "name":"Apple",
+    "owner":"Timothy Donald Cook",
+    "headquarters":"USA",
+    "founded":1976,
+    "revenue":50000,
+    "img":"https://studio.cults3d.com/yXo8l8_rQbrzefBfE2p_YSvxYHI=/516x516/https://files.cults3d.com/uploaders/15110355/illustration-file/2bb91600-1971-4ebc-85c5-b828fe27906a/1caa032c47f63d50902b9d34492e1303.jpg"
+  },
+  
+  {  
+      "name":"Amazon",
+      "owner":"Jeff Bezos",
+      "headquarters":"USA",
+      "founded":1994,
+      "revenue":80000,
+      "img":"https://download.logo.wine/logo/Amazon_(company)/Amazon_(company)-Logo.wine.png"},
+    
+    {   
+        "name":"Microsoft Corporation",
+        "owner":"Satya Nadella",
+        "headquarters":"USA",
+        "founded":1975,
+        "revenue":90000,
+        "img":"https://cdn.vox-cdn.com/thumbor/NeSo4JAqv-fFJCIhb5K5eBqvXG4=/7x0:633x417/1200x800/filters:focal(7x0:633x417)/cdn.vox-cdn.com/assets/1311169/mslogo.jpg"
+    },
+        
+    {
+         "name":"Facebook",
+         "owner":"Mark Zuckerberg",
+         "headquarters":"USA",
+         "founded":2004,
+         "revenue":40000,
+         "img":"https://1000logos.net/wp-content/uploads/2016/11/fb-logo.jpg"
+    },
+    
+    {   
+        "name":"Daraz",
+        "owner":"Bjarke Mikkelsen",
+        "headquarters":"Singapore",
+        "founded":2012,
+        "revenue":25000,
+        "img":"https://upload.wikimedia.org/wikipedia/commons/2/26/Daraz_logo_color.png"
+    },
+
+    {   
+        "name":"Qatar Airways",
+         "owner":" Akbar Al Baker",
+         "headquarters":"Qatar",
+         "founded":1993,
+         "revenue":45000,
+         "img":"https://logos-world.net/wp-content/uploads/2020/03/Qatar-Airways-Logo-2006-present.jpg"
+    },
+    
+    {   
+        "name":"Google",
+        "owner":"Larry Page",
+        "headquarters":"USA",
+        "founded":1998,
+        "revenue":120000,
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/368px-Google_2015_logo.svg.png"
+    },
+    {  
+         "name":"10 Minute School",
+         "owner":"Ayman Sadiq",
+         "headquarters":"Bangladesh",
+         "founded":2015,
+         "revenue":20000,
+         "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/10minutesschool.png/440px-10minutesschool.png"
+    },
+    
+    {  
+         "name":"Boeing",
+        "owner":"William E. Boeing",
+        "headquarters":"USA",
+        "founded":1916,
+        "revenue":100000,
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Boeing_full_logo.svg/1280px-Boeing_full_logo.svg.png"
+    },
+    
+    {  
+         "name":"Tesla",
+        "owner":"Elon Musk",
+        "headquarters":"USA",
+        "founded":2003,
+        "revenue":90000,
+        "img":"https://1000logos.net/wp-content/uploads/2021/04/Tesla-logo.png"
+    },
+    
+    { 
+         "name":"Reliance Industries Limited",
+         "owner":"Mukesh Ambani",
+         "headquarters":"India",
+         "founded":1973,
+         "revenue":40000,
+         "img":"https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Reliance_Industries_Logo.svg/1200px-Reliance_Industries_Logo.svg.png"
+    },
+    
+    { 
+        "name":"Samsung Group",
+        "owner":"Lee Byung-chul",
+        "headquarters":"South Korea",
+        "founded":1938,
+        "revenue":80000,
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/2560px-Samsung_Logo.svg.png"
+    },
+    
+    {  
+        "name":"Huawei",
+        "owner":"Ren Zhengfei",
+        "headquarters":"Chaina",
+        "founded":1987,
+        "revenue":40000,
+        "img":"https://logos-world.net/wp-content/uploads/2020/04/Huawei-Logo-2018-present.jpg"
+    },
+    
+    {   "name":"Oppo",
+        "owner":"Duan Yongping",
+        "headquarters":"Chaina",
+        "founded":2004,
+        "revenue":47000,
+        "img":"https://download.logo.wine/logo/Oppo/Oppo-Logo.wine.png"
+    },
+    
+    {  
+        "name":"Xiaomi Inc.",
+        "owner":"Ren Zhengfei",
+        "headquarters":"Chaina",
+        "founded":2010,
+        "revenue":40000,
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Xiaomi_logo.svg/2048px-Xiaomi_logo.svg.png"}]

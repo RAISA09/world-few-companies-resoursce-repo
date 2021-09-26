@@ -1,0 +1,12 @@
+.companies-container{
+    display: grid;
+    grid-template-columns: 4fr 1.5fr;
+}
+.company-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.total-container{
+    text-align: center;
+    
+}
